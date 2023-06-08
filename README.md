@@ -6,4 +6,4 @@ is to provide information and example programs in VEXcode text to feed **THE FAR
 
 Youtube: https://www.youtube.com/@JasonGomezTAMU/featured
 
-<img src="https://github.com/jasondgo/jasondgo/blob/main/farmRobotics.jpg" width="500" height="500">
+<img src="https://github.com/jasondgo/jasondgo/blob/main/RoboJoe.jpg" width="500" height="500">
